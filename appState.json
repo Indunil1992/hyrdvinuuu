@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "hyrdvinuuu.js",
         "cursor": {
-          "lineNumber": 2,
-          "column": 5
+          "lineNumber": 3,
+          "column": 48
         },
         "config": {
           "runtime": "nodejs10.x",
@@ -22,7 +22,16 @@
           "layers": [],
           "name": "1"
         },
-        "triggers": []
+        "triggers": [],
+        "testCases": {
+          "63a1ba41-399c-468c-bcae-ee08eedbfd42": {
+            "id": "63a1ba41-399c-468c-bcae-ee08eedbfd42",
+            "name": "Test event",
+            "functionId": "03482e6f-3a0a-4845-90e6-dfabcdfe7c0e",
+            "event": "{\r\n    \"key1\": \"value1\",\r\n    \"key2\": \"value2\",\r\n    \"key3\": \"value3\"\r\n}",
+            "eventTemplate": "hello-world"
+          }
+        }
       },
       "e8f4684c-d174-481e-86fc-9f7ee9869a3f": {
         "id": "e8f4684c-d174-481e-86fc-9f7ee9869a3f",
@@ -34,8 +43,8 @@
         "isRemovable": true,
         "filePath": "induuu.js",
         "cursor": {
-          "lineNumber": 2,
-          "column": 5
+          "lineNumber": 3,
+          "column": 48
         },
         "config": {
           "runtime": "nodejs10.x",
@@ -81,7 +90,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1587373213148
+    "lastSave": 1587373392851
   },
   "VCS_STATE": {
     "provider": "GitHub",
