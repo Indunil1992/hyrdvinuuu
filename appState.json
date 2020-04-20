@@ -1,0 +1,93 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "03482e6f-3a0a-4845-90e6-dfabcdfe7c0e": {
+        "id": "03482e6f-3a0a-4845-90e6-dfabcdfe7c0e",
+        "parent": null,
+        "name": "hyrdvinuuu.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "hyrdvinuuu.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "1"
+        },
+        "triggers": []
+      },
+      "e8f4684c-d174-481e-86fc-9f7ee9869a3f": {
+        "id": "e8f4684c-d174-481e-86fc-9f7ee9869a3f",
+        "parent": null,
+        "name": "induuu.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "induuu.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "1"
+        },
+        "triggers": []
+      }
+    },
+    "openFiles": [
+      "03482e6f-3a0a-4845-90e6-dfabcdfe7c0e",
+      "e8f4684c-d174-481e-86fc-9f7ee9869a3f"
+    ],
+    "currentFileId": "e8f4684c-d174-481e-86fc-9f7ee9869a3f",
+    "resources": {},
+    "customTemplate": {
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "hyrdvinuuu",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1587373213148
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "hyrdvinuuu",
+      "url": "https://github.com/Indunil1992/hyrdvinuuu"
+    }
+  }
+}
